@@ -1,0 +1,13 @@
+
+python-dotenv       
+openai             
+elevenlabs         
+SpeechRecognition   
+sounddevice         
+soundfile         
+numpy               
+python-docx       
+
+
+streamlit          
+requests         
